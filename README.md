@@ -13,7 +13,7 @@ Notebooks:
 
 - Ising_model.ipynb: Simulations of the Ising model on a square.
 
-<img src = "./Pictures/Ising.png" width=200>
+<img src = "./Pictures/ising.png" width=200>
 
 
 
