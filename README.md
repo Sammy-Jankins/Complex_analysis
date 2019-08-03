@@ -9,7 +9,9 @@ Python (3.6.8)
 
 Notebooks: 
 
+- Multiple_SLE.ipynb: Simulations of the chordal multiple slit equation, including multiple SLE. 
 
+<img src = "./Pictures/multiple_sle.png" width=600>
 
 - 2D_Brownian_motion.ipynb: Simulations of a planar Brownian motion and a loop erased random walk. 
 
