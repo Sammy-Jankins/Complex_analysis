@@ -20,7 +20,7 @@ Notebooks:
 
 - Ising_model.ipynb: Simulations of the Ising model on a square. (Implementations in R: Ising.R, Ising_boundary.R) Left: high temperature, middle: critical temperature, right: low temperature.
 
-<img src = "./Pictures/ising.png" width=800>
+<img src = "./Pictures/ising_boundary.png" width=800>
 
 
 
