@@ -9,7 +9,7 @@ Python (3.6.8)
 
 Notebooks: 
 
-- Multiple_SLE.ipynb: Simulations of the chordal multiple slit equation, including multiple SLE. 
+- Chordal_multiple_SLE.ipynb, Radial_multiple_SLE.ipynb: Simulations of the chordal/radial multiple slit equation, including multiple SLE. 
 
 <img src = "./Pictures/multiple_sle.png" width=800>
 
