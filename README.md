@@ -12,6 +12,7 @@ Notebooks:
 - Chordal_multiple_SLE.ipynb, Radial_multiple_SLE.ipynb: Simulations of the chordal/radial multiple slit equation, including multiple SLE. 
 
 <img src = "./Pictures/multiple_sle.png" width=800>
+<img src = "./Pictures/radial_curve_evolution.gif" width=200> 
 
 - 2D_Brownian_motion.ipynb: Simulations of a planar Brownian motion and a loop erased random walk. 
 
