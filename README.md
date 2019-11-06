@@ -13,7 +13,7 @@ Notebooks:
 
 <img src = "./Pictures/multiple_sle.png" width=800>
 
- <img src = "./Pictures/curve_evolution2.gif" width=200>
+ <img src = "./Pictures/curve_evolution.gif" width=200> &nbsp;  &nbsp;   &nbsp; <img src = "./Pictures/curve_evolution2.gif" width=200>
 <img src = "./Pictures/curve_evolution.gif" width=200> &nbsp;  &nbsp;   &nbsp;
 
 - 2D_Brownian_motion.ipynb: Simulations of a planar Brownian motion and a loop erased random walk. 
