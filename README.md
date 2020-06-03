@@ -25,6 +25,8 @@ Notebooks:
 
 <img src = "./Pictures/ising_boundary.png" width=800>
 
+- F-transforms.ipynb: F-transforms of the arcsine and semicircle distributions as conformal mappings. Non-tangential approach and horodiscs in the unit disc.
+
 
 
 
